@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = /Users/dashasmorodova/Desktop/work/2021-2022/Математическое моделирование/laboratory/lab01/hello
